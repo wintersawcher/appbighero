@@ -1,6 +1,6 @@
+
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-
 
 class MyCustomForm extends StatefulWidget {
   const MyCustomForm({Key? key}) : super(key: key);
@@ -238,8 +238,6 @@ class MyCustomFormState extends State<MyCustomForm> {
       });
   }
 }
-
-
 
 
 
