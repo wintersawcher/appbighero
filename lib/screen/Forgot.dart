@@ -326,8 +326,7 @@ class _Screen3State extends State<Screen3> {
                               );*/
 
                           },
-                          child: Text('Đổi mật khẩu',
-                            style: TextStyle(fontSize: 16, color: Colors.white),),
+                          child: Text('Đổi mật khẩu', style: TextStyle(fontSize: 16, color: Colors.white),),
                         ),
                       ),
                     ),
@@ -335,10 +334,8 @@ class _Screen3State extends State<Screen3> {
                       padding: const EdgeInsets.fromLTRB(120, 50, 0, 0),
                       child: Row(
                         children: [
-                          Text('Đã có tài khoản? ',
-                              style: TextStyle(fontSize: 16)),
-                          Text('Đăng nhập',
-                            style: TextStyle(fontSize: 16, color: Colors.blue),)
+                          Text('Đã có tài khoản? ', style: TextStyle(fontSize: 16)),
+                          Text('Đăng nhập', style: TextStyle(fontSize: 16, color: Colors.blue),)
                         ],
                       ),
                     ),
